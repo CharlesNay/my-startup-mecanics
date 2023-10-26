@@ -1,0 +1,20 @@
+.banner {
+	background-image: url(../../un-garagiste-est-tenu-par-une-obligation-de-resultat-illustration-adobe-stock-1630931559.jpeg);
+	color: Blue;
+	padding: 150px;
+	background-size: cover; 
+	background-position: center;
+
+}
+
+.banner h1 {
+	font-size: 52px; 
+
+}
+
+.banner h2 {
+	font-size: 38px; 
+	font-weight: lighter; 
+	opacity: 0,7;
+	margin-bottom: 40px;
+}
